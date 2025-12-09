@@ -1,0 +1,13 @@
+Month,Month Number,Min (°C),Max (°C),Mean (°C),Min (°F),Max (°F),Mean (°F),Number of  days,Season
+January,1,1.2,6.2,3.7,34,43,38.7,31,Winter
+February,2,1,6.9,4,34,44,39.2,29,Winter
+March,2,2.8,10.1,6.4,37,50,43.6,31,Spring
+April,4,5.2,14.2,9.7,41,58,49.4,30,Spring
+May,5,8.6,17.7,13.2,48,64,55.7,31,Spring
+June,6,11.3,20.3,15.8,52,68,60.4,30,Summer
+July,7,13.5,22.5,18,56,73,64.4,31,Summer
+August,8,13.3,22.3,17.8,56,72,64.1,31,Summer
+September,9,11,19.2,15.1,52,66,59.1,30,Autumn
+October,10,7.7,14.7,11.2,46,59,52.2,31,Autumn
+November,11,4.4,10,7.2,40,50,44.9,30,Autumn
+December,12,1.9,6.9,4.4,35,44,39.9,31,Winter

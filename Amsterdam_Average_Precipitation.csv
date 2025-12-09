@@ -1,0 +1,13 @@
+Month,Month Number,Precipitation Millimeters,Precipatation Inches,Rainy Days
+January,1,65,2.6,12
+February,2,50,2,10
+March,3,50,2,10
+April,4,40,1.6,9
+May,5,55,2.2,9
+June,6,65,2.6,10
+July,7,80,3.1,11
+August,8,100,3.9,12
+September,9,85,3.3,11
+October,10,85,3.3,12
+November,11,85,3.3,13
+December,12,80,3.1,14
